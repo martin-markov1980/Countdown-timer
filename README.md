@@ -4,6 +4,7 @@ This is responsive countdown timer builded for the www.debgroup.com client.
 <br>
 Link to the project - https://martin-markov1980.github.io/countdown-timer/
 <br>
+<br>
 Description:
 <br>
   The timer takes a date and countdown the time, until reaches the date, then changes the sign to 'Registration Expired'.
