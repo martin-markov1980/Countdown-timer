@@ -49,6 +49,7 @@
 @media only screen and (max-width: 768px) {
   .out-container {
     flex-wrap: wrap;
+    padding: 10px;
   }
   .registration {
     width: 100%;
