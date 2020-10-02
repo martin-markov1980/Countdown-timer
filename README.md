@@ -7,7 +7,7 @@ Link to the project - https://martin-markov1980.github.io/countdown-timer/
 <br>
 Description:
 <br>
-  The timer takes a date and countdown the time, until reaches the date, then changes the sign to 'Registration Expired'.
+  The timer takes a date and countdown the time, until reaches the date, then changes the sign 'Registration Ends In' to 'Registration Expired'.
 <br>
 <br>
 Used technologies:
