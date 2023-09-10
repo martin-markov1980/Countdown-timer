@@ -1,5 +1,5 @@
 # Countdown timer
-This is responsive countdown timer widget, builded for the www.debgroup.com client.
+This is responsive countdown timer widget.
 <br>
 <br>
 Link to the project - https://martin-markov1980.github.io/countdown-timer/
